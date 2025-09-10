@@ -1,0 +1,3 @@
+model mobilenet : https://drive.google.com/drive/folders/1Np1kr-oLm_1SRVFAzthLeBf4mEnH6_cb?usp=sharing
+model resnet18 : https://drive.google.com/drive/folders/1-AQTEs99_ES-eLqaQAcw7sHbHmhT6Tf1?usp=sharing
+model resnet50 : https://drive.google.com/drive/folders/18aqo_GmuOm8w6HmHU5jBSfxBZqHfT5Rm?usp=sharing
